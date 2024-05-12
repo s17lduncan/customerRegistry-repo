@@ -1,0 +1,11 @@
+\\Mac\Home\Desktop\C#_Coursework\Module5\Assignments\CustomerRegistry\bin\Debug\CustomerRegistry.exe.config
+\\Mac\Home\Desktop\C#_Coursework\Module5\Assignments\CustomerRegistry\bin\Debug\CustomerRegistry.exe
+\\Mac\Home\Desktop\C#_Coursework\Module5\Assignments\CustomerRegistry\bin\Debug\CustomerRegistry.pdb
+\\Mac\Home\Desktop\C#_Coursework\Module5\Assignments\CustomerRegistry\obj\Debug\CustomerRegistry.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\C#_Coursework\Module5\Assignments\CustomerRegistry\obj\Debug\CustomerRegistry.ContactForm.resources
+\\Mac\Home\Desktop\C#_Coursework\Module5\Assignments\CustomerRegistry\obj\Debug\CustomerRegistry.MainForm.resources
+\\Mac\Home\Desktop\C#_Coursework\Module5\Assignments\CustomerRegistry\obj\Debug\CustomerRegistry.Properties.Resources.resources
+\\Mac\Home\Desktop\C#_Coursework\Module5\Assignments\CustomerRegistry\obj\Debug\CustomerRegistry.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\C#_Coursework\Module5\Assignments\CustomerRegistry\obj\Debug\CustomerRegistry.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\C#_Coursework\Module5\Assignments\CustomerRegistry\obj\Debug\CustomerRegistry.exe
+\\Mac\Home\Desktop\C#_Coursework\Module5\Assignments\CustomerRegistry\obj\Debug\CustomerRegistry.pdb
